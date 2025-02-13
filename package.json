@@ -2,7 +2,7 @@
   "name": "@pm4ml/microfrontend-utils",
   "version": "0.0.4",
   "main": "lib/index.js",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "Ivan Annovazzi <ivan@modusbox.com>",
   "types": "lib/index.d.ts",
   "files": [
