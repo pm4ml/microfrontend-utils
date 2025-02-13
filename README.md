@@ -1,10 +1,10 @@
-# @modusbox/microfrontend-utils
+# @pm4ml/microfrontend-utils
 
 A collection of Typescript utilities for the frontend apps.
 
-To install the module run `yarn add @modusbox/microfrontend-utils`.
+To install the module run `yarn add @pm4ml/microfrontend-utils`.
 
-Documentation is available at [https://modusintegration.github.io/microfrontend-utils](https://modusintegration.github.io/microfrontend-utils)
+Documentation is available at [https://github.com/pm4ml/microfrontend-utils](https://github.com/pm4ml/microfrontend-utils)
 
 ### Development
 
