@@ -3,7 +3,7 @@ version: 2.1
 executors:
   node-docker-executor:
     docker:
-      - image: circleci/node:18.20.4-browsers
+      - image: cimg/node:18.20.4-browsers
     working_directory: ~/project
 
 jobs:
